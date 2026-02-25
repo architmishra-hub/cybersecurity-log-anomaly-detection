@@ -1,1 +1,1 @@
-# Cybersecurity-Log-Anomaly-Detection
+# cybersecurity-log-anomaly-detection
