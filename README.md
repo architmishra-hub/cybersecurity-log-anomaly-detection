@@ -97,10 +97,7 @@ This project demonstrates a complete data science workflow for detecting anomali
 
 ## Contact and Links
 
-**Prepared by:** [Your Name]  
-**Email:** your.email@example.com  
-**LinkedIn:** linkedin.com/in/yourprofile  
-**GitHub:** github.com/yourusername
+For any queries or suggestions, please open an issue in the GitHub repository
 
 ---
 
